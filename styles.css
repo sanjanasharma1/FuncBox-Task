@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Slackey&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #101010;
+}
+
+.home_page{
+  margin-top: 20px;
+  position: relative;
+}
+
+.bg{
+  position: relative;
+}
+
+.lock{
+  position: absolute;
+  left: 0px;
+  top: 46px;
+}
+
+.home_ceaser{
+  position: absolute;
+  left: 149px;
+  top: 283px;
+}
+
+.game_page{
+  position: relative;
+  margin-top: 20px;
+}
+
+.ceiling{
+  position: absolute;
+  width: 595px;
+  height: 120px;
+  left: 0px;
+  top: 7px;
+}
+
+.wall{
+  position: absolute;
+  left: 0px;
+  top: 114px;
+  width: 596px;
+  height: 331px;
+}
+
+.pillar{
+  position: absolute;
+  width: 596px;
+  height: 356px;
+  left: 0px;
+  top: 88px;
+}
+
+.heart1, .heart2, .heart3{
+  position: absolute;
+  width: 45px;
+  height: 44px;
+  top: 169px;
+}
+
+.heart1{
+  left: 200px;
+}
+
+.heart2{
+  left: 275px;
+}
+
+.heart3{
+  left: 350px;
+}
+
+.female{
+  position: absolute;
+  width: 74px;
+  height: 194px;
+  left: 263px;
+  top: 251px;
+}
+
+.jail{
+  position: absolute;
+  width: 345px;
+  height: 218px;
+  left: 124px;
+  top: 226px;
+}
+
+.floor{
+  position: absolute;
+  width: 596px;
+  height: 397px;
+  left: 0px;
+  top: 444px;
+}
+
+.sad_ceaser{
+  position: absolute;
+  width: 126px;
+  height: 289px;
+  left: 15px;
+  top: 299px;
+}
+
+.question{
+  position: absolute;
+  width: 260px;
+  height: 123px;
+  left: 167px;
+  top: 492px;
+  background: #562A11;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.option1, .option2, .option3, .option4{
+  position: absolute;
+  width: 107px;
+  height: 62px;
+  background: #562A11;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.option1{
+  left: 71px;
+  top: 662px;
+}
+
+.option2{
+  left: 427px;
+  top: 662px;
+}
+
+.option3{
+  left: 71px;
+  top: 758px;
+}
+
+.option4{
+  left: 427px;
+  top: 758px;
+}
+
+.qtext{
+  font-family: Slackey;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 54px;
+  line-height: 77px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.atext{
+  font-family: Slackey;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+/* #wrongAns{
+  transform: translate(-50%, -50%);
+}
+
+.wrong{
+  position: absolute;
+  width: 476px;
+  height: 523px;
+  left: 60px;
+  top: 213px;
+}
+
+.lost_text{
+  position: absolute;
+  width: 428px;
+  height: 104px;
+  left: 88px;
+  top: 363px;
+
+  font-family: Slackey;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 91px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.retry_wrong{
+  position: absolute;
+  width: 205px;
+  height: 79px;
+  left: 192px;
+  top: 583px;
+} */
+
+
+
